@@ -1,12 +1,12 @@
-Kingdom,Phylum,Class,Order,Suborder,Family,Common name,Characteristics,Butterfly_image_number,Butterfly_specie,Moth_specie,Country
-Animalia1,Arthropoda1,Insecta1,Lepidoptera1,Rhopalocera1,Family name 1,Common name1,Characteristics1,train/ADONIS/01.jpg,ADONIS,Moth_spece name1,Country1
-Animalia2,Arthropoda2,Insecta2,Lepidoptera2,Rhopalocera2,Family name 2,Common name2,Characteristics2,train/AFRICAN GIANT SWALLOWTAIL/002.jpg,AFRICAN GIANT SWALLOWTAIL,Moth_spece name2,Country2
-Animalia3,Arthropoda3,Insecta3,Lepidoptera3,Rhopalocera3,Family name 3,Common name3,Characteristics3,train/AMERICAN SNOOT/002.jpg,AMERICAN SNOOT,Moth_spece name3,Country3
-Animalia4,Arthropoda4,Insecta4,Lepidoptera4,Rhopalocera4,Family name 4,Common name4,Characteristics4,train/AN 88/01.jpg,AN 88,Moth_spece name4,Country4
-Animalia5,Arthropoda5,Insecta5,Lepidoptera5,Rhopalocera5,Family name 5,Common name5,Characteristics5,train/APPOLLO/123.jpg,APPOLLO,Moth_spece name5,Country5
-Animalia6,Arthropoda6,Insecta6,Lepidoptera6,Rhopalocera6,Family name 6,Common name6,Characteristics6,train/ARCIGERA FLOWER MOTH/006.jpg,ARCIGERA FLOWER MOTH,Moth_spece name6,Country6
-Animalia7,Arthropoda7,Insecta7,Lepidoptera7,Rhopalocera7,Family name 7,Common name7,Characteristics7,train/ATALA/002.jpg,ATALA,Moth_spece name7,Country7
-Animalia8,Arthropoda8,Insecta8,Lepidoptera8,Rhopalocera8,Family name 8,Common name8,Characteristics8,train/BANDED ORANGE HELICONIAN/019.jpg,BANDED ORANGE HELICONIAN,Moth_spece name8,Country8
-Animalia9,Arthropoda9,Insecta9,Lepidoptera9,Rhopalocera9,Family name 9,Common name9,Characteristics9,train/BANDED ORANGE HELICONIAN/020.jpg,BANDED ORANGE HELICONIAN,Moth_spece name9,Country9
-Animalia10,Arthropoda10,Insecta10,Lepidoptera10,Rhopalocera10,Family name 10,Common name10,Characteristics10,train/BANDED ORANGE HELICONIAN/021.jpg,BANDED ORANGE HELICONIAN,Moth_spece name10,Country10
-Animalia11,Arthropoda11,Insecta11,Lepidoptera11,Rhopalocera11,Family name 11,Common name11,Characteristics11,train/BANDED ORANGE HELICONIAN/022.jpg,BANDED ORANGE HELICONIAN,Moth_spece name11,Country11.
+Kingdom,Phylum,Class,Order,Suborder,Family,Common name,Characteristics,Butterfly_image_number,Butterfly_specie,Moth_specie,Country,Value 1,Value2
+Animalia1,Arthropoda1,Insecta1,Lepidoptera1,Rhopalocera1,Family name 1,Common name1,Characteristics1,train/ADONIS/01.jpg,ADONIS,Moth_spece name1,Country1,1,12
+Animalia2,Arthropoda2,Insecta2,Lepidoptera2,Rhopalocera2,Family name 2,Common name2,Characteristics2,train/AFRICAN GIANT SWALLOWTAIL/002.jpg,AFRICAN GIANT SWALLOWTAIL,Moth_spece name2,Country2,2,13
+Animalia3,Arthropoda3,Insecta3,Lepidoptera3,Rhopalocera3,Family name 3,Common name3,Characteristics3,train/AMERICAN SNOOT/002.jpg,AMERICAN SNOOT,Moth_spece name3,Country3,3,14
+Animalia4,Arthropoda4,Insecta4,Lepidoptera4,Rhopalocera4,Family name 4,Common name4,Characteristics4,train/AN 88/01.jpg,AN 88,Moth_spece name4,Country4,4,15
+Animalia5,Arthropoda5,Insecta5,Lepidoptera5,Rhopalocera5,Family name 5,Common name5,Characteristics5,train/APPOLLO/123.jpg,APPOLLO,Moth_spece name5,Country5,5,16
+Animalia6,Arthropoda6,Insecta6,Lepidoptera6,Rhopalocera6,Family name 6,Common name6,Characteristics6,train/ARCIGERA FLOWER MOTH/006.jpg,ARCIGERA FLOWER MOTH,Moth_spece name6,Country6,6,17
+Animalia7,Arthropoda7,Insecta7,Lepidoptera7,Rhopalocera7,Family name 7,Common name7,Characteristics7,train/ATALA/002.jpg,ATALA,Moth_spece name7,Country7,7,18
+Animalia8,Arthropoda8,Insecta8,Lepidoptera8,Rhopalocera8,Family name 8,Common name8,Characteristics8,train/BANDED ORANGE HELICONIAN/019.jpg,BANDED ORANGE HELICONIAN,Moth_spece name8,Country8,8,19
+Animalia9,Arthropoda9,Insecta9,Lepidoptera9,Rhopalocera9,Family name 9,Common name9,Characteristics9,train/BANDED ORANGE HELICONIAN/020.jpg,BANDED ORANGE HELICONIAN,Moth_spece name9,Country9,9,20
+Animalia10,Arthropoda10,Insecta10,Lepidoptera10,Rhopalocera10,Family name 10,Common name10,Characteristics10,train/BANDED ORANGE HELICONIAN/021.jpg,BANDED ORANGE HELICONIAN,Moth_spece name10,Country10,10,21
+Animalia11,Arthropoda11,Insecta11,Lepidoptera11,Rhopalocera11,Family name 11,Common name11,Characteristics11,train/BANDED ORANGE HELICONIAN/022.jpg,BANDED ORANGE HELICONIAN,Moth_spece name11,Country11.,11,22
