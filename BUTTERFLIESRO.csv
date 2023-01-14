@@ -1,4 +1,4 @@
-Kingdom,Phylum,Class,Order,Suborder,Family,Common name,Characteristics,Butterfly_image_number,Butterfly_specie,Moth_specie,Country,Year,Value 1,Value2
+Kingdom,Phylum,Class,Order,Suborder,Family,Common name,Characteristics,Butterfly_image_number,Butterfly_specie,Moth_specie,Country,Year,Value1,Value2
 Animalia1,Arthropoda1,Insecta1,Lepidoptera1,Rhopalocera1,Family name 1,Common name1,Characteristics1,train/ADONIS/01.jpg,ADONIS,Moth_spece name1,Country1,1970,1,12
 Animalia2,Arthropoda2,Insecta2,Lepidoptera2,Rhopalocera2,Family name 2,Common name2,Characteristics2,train/AFRICAN GIANT SWALLOWTAIL/002.jpg,AFRICAN GIANT SWALLOWTAIL,Moth_spece name2,Country2,1971,2,13
 Animalia3,Arthropoda3,Insecta3,Lepidoptera3,Rhopalocera3,Family name 3,Common name3,Characteristics3,train/AMERICAN SNOOT/002.jpg,AMERICAN SNOOT,Moth_spece name3,Country3,1972,3,14
